@@ -1,0 +1,2 @@
+C:/Users/bakar/source/repos/TXI/flower-shop/build/CMakeFiles/edit_cache.dir
+C:/Users/bakar/source/repos/TXI/flower-shop/build/CMakeFiles/rebuild_cache.dir
